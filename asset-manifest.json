@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/search-bar/static/css/main.aac0db58.css",
+    "main.js": "/search-bar/static/js/main.209e2073.js",
+    "static/media/flexible.jpg": "/search-bar/static/media/flexible.ea4bee9a8ae36c0e3395.jpg",
+    "static/media/canada.webp": "/search-bar/static/media/canada.80f42b7df8b321fc4e22.webp",
+    "static/media/europe.webp": "/search-bar/static/media/europe.ea6a37ef4e74c9253e87.webp",
+    "static/media/united-states.webp": "/search-bar/static/media/united-states.bf6a17c846334e3873a4.webp",
+    "static/media/united-kingdom.webp": "/search-bar/static/media/united-kingdom.c04fcb08f5b248cb6fa2.webp",
+    "static/media/middle-east.webp": "/search-bar/static/media/middle-east.66e5650f59846b5842fe.webp",
+    "static/media/search-icon.svg": "/search-bar/static/media/search-icon.fa92ea9da3bb72f55adb7867756e179e.svg",
+    "index.html": "/search-bar/index.html",
+    "static/media/cross-icon.svg": "/search-bar/static/media/cross-icon.145061a3abfe0f589dca881a3afe1b5c.svg",
+    "main.aac0db58.css.map": "/search-bar/static/css/main.aac0db58.css.map",
+    "main.209e2073.js.map": "/search-bar/static/js/main.209e2073.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac0db58.css",
+    "static/js/main.209e2073.js"
+  ]
+}
