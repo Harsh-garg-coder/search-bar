@@ -1,0 +1,19 @@
+.selection-box-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin:40px;
+    cursor: pointer;
+}
+
+.container img {
+    width:180px;
+    height:180px;
+    margin-bottom:20px;
+}

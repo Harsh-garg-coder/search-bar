@@ -1,0 +1,12 @@
+.output-container {
+    border:1px solid grey;
+    width:500px;
+    margin-left:50px;
+    border-radius: 11px;
+    max-height:500px;
+    overflow: auto;
+}
+
+.item {
+    padding:20px;
+}
